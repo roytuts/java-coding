@@ -1,0 +1,1 @@
+You can read tutorial here https://roytuts.com/minimum-moves-to-segregate-even-followed-by-odd-elements-in-array/
