@@ -22,6 +22,7 @@ public class EqualizeArrayElementsApp {
 		for (int i = 0; i < aLength; i++) {
 			String as = String.valueOf(a[i]);
 			String bs = String.valueOf(b[i]);
+			
 			for (int c = 0; c < as.length(); c++) {
 				int aValue = Integer.parseInt(Character.toString(as.charAt(c)));
 				int bValue = Integer.parseInt(Character.toString(bs.charAt(c)));
