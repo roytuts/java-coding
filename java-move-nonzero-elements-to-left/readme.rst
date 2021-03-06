@@ -1,0 +1,1 @@
+You can read tutorial here https://roytuts.com/move-non-zero-array-elements-to-left-using-java/
