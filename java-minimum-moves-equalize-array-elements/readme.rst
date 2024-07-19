@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/minimum-moves-to-equalize-array-elements/
+Please follow the tutorial https://roytuts.com/minimum-moves-to-equalize-array-elements/
